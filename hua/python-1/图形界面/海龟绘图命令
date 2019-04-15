@@ -1,0 +1,17 @@
+（1）运动命令:
+
+1.turtle.forward（degree）  #表示向前移动degree个长度
+2.turtle.backward（degree） #表示向后移动degree个长度
+3.turtle.left（degree） #表示向左移动多少度
+4.turtle.right（degree）#表示向右移动多少度
+5.turtle.goto（x,y） #将画笔移动到（x,y）坐标位置。
+6.turtle.stamp（）#复制当前图形
+7.turtle.speed（speed） #将画笔绘制的速度范围[0,10]整数
+8.turtle.circle()#画圆
+（2）画笔控制命令
+1.turtle.down（）移动时，绘制图形，缺省时也为绘制图形。
+2.turtle.up（）移动时，不绘制图形。
+3.turtle.pensize（）绘制图形时的宽度。
+4.turtle.color（colorstring）绘制图形时的颜色
+5.fill.（true）
+6.fill.（false）

@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b74bd780-2fa3-473e-be70-a4237ac4c022" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hua$findall.coverage" NAME="findall Coverage Results" MODIFIED="1553761498018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$collections_HTMLParser.coverage" NAME="collections-HTMLParser练习 Coverage Results" MODIFIED="1554203273332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$2_2logging.coverage" NAME="2.2logging Coverage Results" MODIFIED="1553250572589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$test_Student.coverage" NAME="test_Student Coverage Results" MODIFIED="1553326457619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习" />
+    <SUITE FILE_PATH="coverage/hua$SMTP_4.coverage" NAME="SMTP-4 Coverage Results" MODIFIED="1554876650202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$_.coverage" NAME="第十章 小文件的复制 Coverage Results" MODIFIED="1553395709268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1/课后练习" />
+    <SUITE FILE_PATH="coverage/hua$q.coverage" NAME="q Coverage Results" MODIFIED="1553393619233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject" />
+    <SUITE FILE_PATH="coverage/hua$ex10_2_.coverage" NAME="ex10.2 文件写入 Coverage Results" MODIFIED="1553392076102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$asyncio_1.coverage" NAME="asyncio_1 Coverage Results" MODIFIED="1555040994112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/异步IO" />
+    <SUITE FILE_PATH="coverage/hua$w.coverage" NAME="w Coverage Results" MODIFIED="1553332472577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/文档测试" />
+    <SUITE FILE_PATH="coverage/hua$TCP_1.coverage" NAME="TCP-1 Coverage Results" MODIFIED="1554773365271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$4_2__iter__.coverage" NAME="4.2定制类__iter__ Coverage Results" MODIFIED="1553004281772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$1_3.coverage" NAME="1.3记录错误 Coverage Results" MODIFIED="1553138455221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$Lock.coverage" NAME="Lock Coverage Results" MODIFIED="1553648043475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$test.coverage" NAME="test Coverage Results" MODIFIED="1553843310516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1553133508189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/hua$2_1.coverage" NAME="2.1断言 Coverage Results" MODIFIED="1553250378455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$requests_1.coverage" NAME="requests-1 Coverage Results" MODIFIED="1554284560828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/常用第三方模块" />
+    <SUITE FILE_PATH="coverage/hua$5_1.coverage" NAME="5.1使用枚举类 Coverage Results" MODIFIED="1553049453029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$collections_hmac.coverage" NAME="collections-hmac Coverage Results" MODIFIED="1553933049770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$mydict.coverage" NAME="mydict Coverage Results" MODIFIED="1553320794454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+    <SUITE FILE_PATH="coverage/hua$server.coverage" NAME="server Coverage Results" MODIFIED="1553846343983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/q1145530136/FavTemp/cbd5830f/res" />
+    <SUITE FILE_PATH="coverage/hua$collections_defaultdict.coverage" NAME="collections-defaultdict Coverage Results" MODIFIED="1553845825301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$collections_struct.coverage" NAME="collections-struct Coverage Results" MODIFIED="1553869084906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$.coverage" NAME="协程 Coverage Results" MODIFIED="1555039439667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/异步IO" />
+    <SUITE FILE_PATH="coverage/hua$WSGI_1.coverage" NAME="WSGI-1 Coverage Results" MODIFIED="1554903574833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web" />
+    <SUITE FILE_PATH="coverage/hua$client.coverage" NAME="client Coverage Results" MODIFIED="1553846349166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/q1145530136/FavTemp/cbd5830f/res" />
+    <SUITE FILE_PATH="coverage/hua$datetime.coverage" NAME="datetime练习 Coverage Results" MODIFIED="1553845156734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$5_2.coverage" NAME="5.2枚举类练习 Coverage Results" MODIFIED="1553054169042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$re_spilt.coverage" NAME="re.spilt Coverage Results" MODIFIED="1553762934016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$SMTP_5.coverage" NAME="SMTP-5 Coverage Results" MODIFIED="1554880705671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$collections_XML.coverage" NAME="collections-XML Coverage Results" MODIFIED="1554189655035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$1_4.coverage" NAME="1.4抛出错误 Coverage Results" MODIFIED="1553156168362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$ex10_6_2.coverage" NAME="ex10.6 文件的读写续2 Coverage Results" MODIFIED="1553395283556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$x.coverage" NAME="x Coverage Results" MODIFIED="1554006592992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$os.coverage" NAME="os Coverage Results" MODIFIED="1553405399332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/IO编程/操作文件和目录" />
+    <SUITE FILE_PATH="coverage/hua$1_5.coverage" NAME="1.5练习 Coverage Results" MODIFIED="1553156253884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$1_2.coverage" NAME="1.2调用栈 Coverage Results" MODIFIED="1553136474568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$TCP_2.coverage" NAME="TCP-2 Coverage Results" MODIFIED="1554795300527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$WSGI_2.coverage" NAME="WSGI_2 Coverage Results" MODIFIED="1554904836656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web" />
+    <SUITE FILE_PATH="coverage/hua$Unittests_in_setUptearDown_py.coverage" NAME="Unittests in setUp和tearDown.py Coverage Results" MODIFIED="1553322717915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+    <SUITE FILE_PATH="coverage/hua$mydict_test.coverage" NAME="mydict_test Coverage Results" MODIFIED="1553322182779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+    <SUITE FILE_PATH="coverage/hua$web_1.coverage" NAME="web_1 Coverage Results" MODIFIED="1554947626062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-1" />
+    <SUITE FILE_PATH="coverage/hua$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1553937500444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/hua$4_3__getitem__.coverage" NAME="4.3定制类__getitem__ Coverage Results" MODIFIED="1553004214391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$hi.coverage" NAME="hi Coverage Results" MODIFIED="1553064453869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$ex10_7_.coverage" NAME="ex10.7 综合练习 Coverage Results" MODIFIED="1553395376419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$repl.coverage" NAME="repl参数是一个函数 Coverage Results" MODIFIED="1553757697607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$UDP_1.coverage" NAME="UDP-1 Coverage Results" MODIFIED="1554796952231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$SMTP_3.coverage" NAME="SMTP-3 Coverage Results" MODIFIED="1554865320087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$ex10_4_.coverage" NAME="ex10.4 文件的读写操作 Coverage Results" MODIFIED="1553395170283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$re_search.coverage" NAME="re.search方法 Coverage Results" MODIFIED="1553689462194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$2_3pdb.coverage" NAME="2.3pdb Coverage Results" MODIFIED="1553251703956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$WSGI_4.coverage" NAME="WSGI_4 Coverage Results" MODIFIED="1554905414038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web" />
+    <SUITE FILE_PATH="coverage/hua$turtle_2.coverage" NAME="turtle-2 Coverage Results" MODIFIED="1554706572970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/图形界面" />
+    <SUITE FILE_PATH="coverage/hua$k.coverage" NAME="k Coverage Results" MODIFIED="1552989342071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1553089189265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/hua$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1553656754171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py" />
+    <SUITE FILE_PATH="coverage/hua$Student.coverage" NAME="Student Coverage Results" MODIFIED="1553323472098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习" />
+    <SUITE FILE_PATH="coverage/hua$abacf584b9db3898ee5db54cca75d877.coverage" NAME="abacf584b9db3898ee5db54cca75d877 Coverage Results" MODIFIED="1553870916273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/q1145530136/FavTemp/117b6ee1/res" />
+    <SUITE FILE_PATH="coverage/hua$_Queue.coverage" NAME="进程间通信-Queue Coverage Results" MODIFIED="1553652709136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$collelctions_hmac.coverage" NAME="collelctions-hmac练习 Coverage Results" MODIFIED="1553931464405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$UDP_2.coverage" NAME="UDP-2 Coverage Results" MODIFIED="1554796966801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$collections_itertools.coverage" NAME="collections-itertools练习 Coverage Results" MODIFIED="1554004797932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$4_4___getattr__.coverage" NAME="4.4定制类 __getattr__ Coverage Results" MODIFIED="1552990099694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$_turtle.coverage" NAME="海龟绘图-turtle Coverage Results" MODIFIED="1554366286140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/图形界面" />
+    <SUITE FILE_PATH="coverage/hua$SMTP_1.coverage" NAME="SMTP-1 Coverage Results" MODIFIED="1554863927146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$collections_hashlib2.coverage" NAME="collections_hashlib练习2 Coverage Results" MODIFIED="1553917079439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$seperator.coverage" NAME="seperator Coverage Results" MODIFIED="1553395659717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$Doctests_in_3_1.coverage" NAME="Doctests in 3.1单元测试 Coverage Results" MODIFIED="1553322865093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+    <SUITE FILE_PATH="coverage/hua$s.coverage" NAME="s Coverage Results" MODIFIED="1553652527072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$TCP_3.coverage" NAME="TCP-3 Coverage Results" MODIFIED="1554795303012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+    <SUITE FILE_PATH="coverage/hua$hello.coverage" NAME="hello Coverage Results" MODIFIED="1553064127262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/模块" />
+    <SUITE FILE_PATH="coverage/hua$2.coverage" NAME="2 Coverage Results" MODIFIED="1553525853197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$collections.coverage" NAME="内置模块collections Coverage Results" MODIFIED="1553844739635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$stringIO.coverage" NAME="stringIO Coverage Results" MODIFIED="1553394484633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/IO编程" />
+    <SUITE FILE_PATH="coverage/hua$1.coverage" NAME="1 Coverage Results" MODIFIED="1553562374536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$collections_urllib.coverage" NAME="collections-urllib练习 Coverage Results" MODIFIED="1554110177915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$collections_contextlib.coverage" NAME="collections-contextlib Coverage Results" MODIFIED="1554012371627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$4_5__call__.coverage" NAME="4.5定制类__call__ Coverage Results" MODIFIED="1553003968389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$requests_2.coverage" NAME="requests-2 Coverage Results" MODIFIED="1554283194659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/常用第三方模块" />
+    <SUITE FILE_PATH="coverage/hua$ex10_5_1.coverage" NAME="ex10.5 文件的读写续1 Coverage Results" MODIFIED="1553395245233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$JSON.coverage" NAME="JSON进阶 Coverage Results" MODIFIED="1553486337014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/IO编程/序列化" />
+    <SUITE FILE_PATH="coverage/hua$collections_Counter.coverage" NAME="collections-Counter Coverage Results" MODIFIED="1553847514443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$6_1type.coverage" NAME="6.1使用元类type Coverage Results" MODIFIED="1553068119208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程" />
+    <SUITE FILE_PATH="coverage/hua$ex10_3_.coverage" NAME="ex10.3 文件追加内容 Coverage Results" MODIFIED="1553392009555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$myStudent.coverage" NAME="myStudent Coverage Results" MODIFIED="1553326430718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习" />
+    <SUITE FILE_PATH="coverage/hua$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1553656286689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1553068715517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$3_1.coverage" NAME="3.1单元测试 Coverage Results" MODIFIED="1553323093203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+    <SUITE FILE_PATH="coverage/hua$collections_OrderedDict.coverage" NAME="collections-OrderedDict Coverage Results" MODIFIED="1553846864448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$Base_64.coverage" NAME="Base-64 Coverage Results" MODIFIED="1553913914339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$re_finditer.coverage" NAME="re.finditer Coverage Results" MODIFIED="1553761845080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$compile.coverage" NAME="compile实例 Coverage Results" MODIFIED="1553841506788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$Email.coverage" NAME="提取出带名字的Email地址 Coverage Results" MODIFIED="1553822855109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$__1_.coverage" NAME="慕课 (1) Coverage Results" MODIFIED="1553312294026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/hua$re_match.coverage" NAME="re.match函数 Coverage Results" MODIFIED="1553689518106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/正则表达式" />
+    <SUITE FILE_PATH="coverage/hua$BytesIO.coverage" NAME="BytesIO Coverage Results" MODIFIED="1553394713820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/IO编程" />
+    <SUITE FILE_PATH="coverage/hua$Tkinter_1.coverage" NAME="Tkinter-1 Coverage Results" MODIFIED="1554359100714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/图形界面" />
+    <SUITE FILE_PATH="coverage/hua$ThreadLocal.coverage" NAME="ThreadLocal Coverage Results" MODIFIED="1553650839426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/进程和线程" />
+    <SUITE FILE_PATH="coverage/hua$collections_hashlib.coverage" NAME="collections-hashlib练习 Coverage Results" MODIFIED="1553915214122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块" />
+    <SUITE FILE_PATH="coverage/hua$1_1.coverage" NAME="1.1错误处理 Coverage Results" MODIFIED="1553136927972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试" />
+    <SUITE FILE_PATH="coverage/hua$web_2.coverage" NAME="web_2 Coverage Results" MODIFIED="1554974200038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-1" />
+    <SUITE FILE_PATH="coverage/hua$ex8_4_.coverage" NAME="ex8.4 自定义异常 Coverage Results" MODIFIED="1553333937937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/python面向对象源码/sourcecode/weixistyle_oop_p2" />
+    <SUITE FILE_PATH="coverage/hua$ex10_8_.coverage" NAME="ex10.8 文件的按行读取 Coverage Results" MODIFIED="1553395547507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/py/source code1" />
+    <SUITE FILE_PATH="coverage/hua$Pillow.coverage" NAME="Pillow Coverage Results" MODIFIED="1554256442448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1/常用第三方模块" />
+    <SUITE FILE_PATH="coverage/hua$SMTP_2.coverage" NAME="SMTP-2 Coverage Results" MODIFIED="1554862908547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-1" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1862761518">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="42" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="6" />
+          <entry key="project.open.time.14" value="10" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="7" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bmp" value="1" />
+          <entry key="file-like Object" value="1" />
+          <entry key="html" value="8" />
+          <entry key="jpg" value="13" />
+          <entry key="png" value="1" />
+          <entry key="py" value="264" />
+          <entry key="txt" value="22" />
+          <entry key="写文件" value="2" />
+          <entry key="正则表达式对象" value="2" />
+          <entry key="海龟绘图命令" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="15" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="266" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="2142" />
+          <entry key="dummy" value="86" />
+          <entry key="file-like Object" value="5" />
+          <entry key="html" value="27" />
+          <entry key="py" value="31752" />
+          <entry key="txt" value="503" />
+          <entry key="写文件" value="24" />
+          <entry key="正则表达式对象" value="2" />
+          <entry key="海龟绘图命令" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="27" />
+          <entry key="PLAIN_TEXT" value="624" />
+          <entry key="Python" value="33918" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-1/异步IO/协程.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <marker date="1555040146987" expanded="true" signature="15:20" ph="..." />
+                <marker date="1555040146987" expanded="true" signature="180:185" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-1/异步IO/asyncio_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding>
+                <marker date="1555041012275" expanded="true" signature="46:51" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>api</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-struct.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/Base-64.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-hashlib.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-hashlib练习.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections_hashlib练习2.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-hmac.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collelctions-hmac练习.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-itertools.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-itertools练习.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/x.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-contextlib.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-urllib.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-urllib练习.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-XML.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-HTMLParser.py" />
+        <option value="$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-HTMLParser练习.py" />
+        <option value="$PROJECT_DIR$/python-1/常用第三方模块/Pillow.py" />
+        <option value="$PROJECT_DIR$/python-1/常用第三方模块/requests-1.py" />
+        <option value="$PROJECT_DIR$/python-1/常用第三方模块/requests-2.py" />
+        <option value="$PROJECT_DIR$/python-1/常用第三方模块/chardet-1.py" />
+        <option value="$PROJECT_DIR$/python-1/常用第三方模块/psutil-1.py" />
+        <option value="$PROJECT_DIR$/python-1/图形界面/Tkinter-1.py" />
+        <option value="$PROJECT_DIR$/python-1/图形界面/海龟绘图-turtle.py" />
+        <option value="$USER_HOME$/Desktop/py/海龟画图爱心.py" />
+        <option value="$PROJECT_DIR$/python-1/图形界面/海龟绘图命令" />
+        <option value="$PROJECT_DIR$/python-1/图形界面/turtle-2.py" />
+        <option value="$PROJECT_DIR$/python-1/TCP-1.py" />
+        <option value="$PROJECT_DIR$/python-1/TCP-3.py" />
+        <option value="$PROJECT_DIR$/python-1/TCP-2.py" />
+        <option value="$PROJECT_DIR$/python-1/UDP-1.py" />
+        <option value="$PROJECT_DIR$/python-1/UDP-2.py" />
+        <option value="$PROJECT_DIR$/python-1/SMTP发送邮件.py" />
+        <option value="$PROJECT_DIR$/python-1/SMTP-2.py" />
+        <option value="$PROJECT_DIR$/python-1/SMTP-1.py" />
+        <option value="$PROJECT_DIR$/python-1/SMTP-3.py" />
+        <option value="$PROJECT_DIR$/python-1/test.txt" />
+        <option value="$PROJECT_DIR$/python-1/SMTP-4.py" />
+        <option value="$PROJECT_DIR$/python-1/SMTP-5.py" />
+        <option value="$PROJECT_DIR$/web/WSGI-1.py" />
+        <option value="$PROJECT_DIR$/web/WSGI-2.py" />
+        <option value="$PROJECT_DIR$/web/WSGI_2.py" />
+        <option value="$PROJECT_DIR$/web/WSDI_3.py" />
+        <option value="$PROJECT_DIR$/web/WSGI_4.py" />
+        <option value="$PROJECT_DIR$/web/web_1.py" />
+        <option value="$PROJECT_DIR$/web-1/web_1.py" />
+        <option value="$PROJECT_DIR$/web-1/web_2.py" />
+        <option value="$PROJECT_DIR$/web-1/form.html" />
+        <option value="$PROJECT_DIR$/web-1/signin-ok.html" />
+        <option value="$PROJECT_DIR$/web-1/home.html" />
+        <option value="$PROJECT_DIR$/python-1/异步IO/协程.py" />
+        <option value="$PROJECT_DIR$/python-1/异步IO/asyncio_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="905" />
+    <option name="y" value="17" />
+    <option name="width" value="1000" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua" type="462c0819:PsiDirectoryNode" />
+              <item name="python-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hua" type="462c0819:PsiDirectoryNode" />
+              <item name="web-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\11455\PycharmProjects\hua\web-1\templates" />
+      <recent name="C:\Users\11455\PycharmProjects\hua\python-1\常用第三方模块" />
+      <recent name="C:\Users\11455\PycharmProjects\hua" />
+      <recent name="C:\Users\11455\PycharmProjects\hua\myproject\廖雪峰python\IO编程" />
+      <recent name="C:\Users\11455\PycharmProjects\hua\myproject\廖雪峰python\IO编程\文件读写" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11455\PycharmProjects\hua\python-1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.asyncio_1">
+    <configuration name="协程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-1/异步IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-1/异步IO/协程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\11455\PycharmProjects\hua\myproject\廖雪峰python\错误、调试和测试\单元测试\练习\myStudent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WSGI_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/WSGI_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asyncio_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-1/异步IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-1/异步IO/asyncio_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myStudent" type="PythonConfigurationType" factoryName="Python">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/练习/myStudent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mydict" type="PythonConfigurationType" factoryName="Python">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/mydict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web-1/web_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web-1/web_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Student" />
+      <item itemvalue="Python.myStudent" />
+      <item itemvalue="Python.mydict" />
+      <item itemvalue="Python.WSGI_4" />
+      <item itemvalue="Python.web_1" />
+      <item itemvalue="Python.web_2" />
+      <item itemvalue="Python.协程" />
+      <item itemvalue="Python.asyncio_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.asyncio_1" />
+        <item itemvalue="Python.协程" />
+        <item itemvalue="Python.web_2" />
+        <item itemvalue="Python.web_1" />
+        <item itemvalue="Python.WSGI_4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b74bd780-2fa3-473e-be70-a4237ac4c022" name="Default Changelist" comment="" />
+      <created>1552980358950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552980358950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 11h 41m 11s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 22m 49s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 22m 52s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 23m 44s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 24m 56s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_setUp和tearDown_py - 2019.03.23 at 14h 31m 32s.xml">
+      <configuration name="Unittests in setUp和tearDown.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_setUp和tearDown_py - 2019.03.23 at 14h 31m 47s.xml">
+      <configuration name="Unittests in setUp和tearDown.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_setUp和tearDown_py - 2019.03.23 at 14h 31m 58s.xml">
+      <configuration name="Unittests in setUp和tearDown.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 32m 43s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_3_1单元测试 - 2019.03.23 at 14h 34m 25s.xml">
+      <configuration name="Doctests in 3.1单元测试" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="724" y="14" width="800" height="832" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39892185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24935733" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="733" y="288" width="778" height="256" id="Run" order="2" sideWeight="0.49614397" weight="0.49215406" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39087018" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50385606" side_tool="true" weight="0.4964132" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32714286" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5652798" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35989717" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24935733" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" x="733" y="288" width="778" height="256" id="Run" order="2" sideWeight="0.49871466" visible="true" weight="0.4892704" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39369" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012854" side_tool="true" weight="0.3266762" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952926" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32618025" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myproject/廖雪峰python/面向对象高级编程/4.3定制类__getitem__.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/1.5练习.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/mydict_test.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myproject/廖雪峰python/错误、调试和测试/单元测试/mydict_test.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python37/闭包.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/py/python面向对象源码/sourcecode/weixistyle_oop_p2/ex9.3 导入模块中部分内容.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collelctions-hmac练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-hmac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-itertools练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/x.py" />
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-urllib练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-XML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-HTMLParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/廖雪峰python/常用内建模块/collections-HTMLParser练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="67" column="42" lean-forward="true" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/thumbnail.jpg" />
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/im2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/code.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/Pillow-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/requests-2.py" />
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/requests-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/chardet-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/psutil-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/图形界面/Tkinter-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/py/海龟画图爱心.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/图形界面/turtle-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/图形界面/海龟绘图-turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/图形界面/海龟绘图命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/baidu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/sina.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/TCP-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/TCP-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/TCP-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/UDP-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/UDP-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/my.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/常用第三方模块/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/SMTP-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/SMTP-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/SMTP-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/SMTP-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/SMTP-5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/WSGI_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/WSGI_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/WSGI_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/WSGI_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/web_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/web_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1554973706397" expanded="true" signature="416:421" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/templates/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-1/templates/signin-ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/异步IO/asyncio_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <marker date="1555041012275" expanded="true" signature="46:51" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-1/异步IO/协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1555040146987" expanded="true" signature="15:20" ph="..." />
+            <marker date="1555040146987" expanded="true" signature="180:185" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
