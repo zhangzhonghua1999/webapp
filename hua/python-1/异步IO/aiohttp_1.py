@@ -16,7 +16,7 @@ async def hello(request):
     text = '<h1>hello, %s!</h1>' % request.match_info['name']
     return web.Response(body=text.encode('utf-8'))
 
-#注意aiohttp的初始化函数init()也是一个coroutine
+#注意aiohttp的初始化函数init()也是一个coroutine，loop.create_server()则利用asyncio创建TCP服务。
 async def init(loop):
     app = web.Application(loop=loop)
     app.router.add_route('GET', '/', index)
