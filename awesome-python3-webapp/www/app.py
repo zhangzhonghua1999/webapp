@@ -115,6 +115,8 @@ async def response_factory(app,handler):
             resp = web.Response(body=r.encode('utf-8'))
             resp.content_type = 'text/html;charset=utf-8'
             return resp
+
+        # 大多数返回的是dict
         if isinstance(r,dict):
             template = r.get('__template__')
             if template is None:
@@ -122,6 +124,8 @@ async def response_factory(app,handler):
                 resp.content_type = 'application/json;charset=utf-8'
                 return resp
             else:
+
+                # 对模板进行渲染
                 r['__user__'] = request.__user__
                 resp = web.Response(body=app['__templating__'].get_template(template).render(**r).encode('utf-8'))
                 resp.content_type = 'text/html;charset = utf-8'
@@ -155,18 +159,25 @@ def datetime_filter(t):
 
 async  def init(loop):
     await orm.create_pool(loop = loop,**configs.db)
+    # middlewares(中间件)设置3个中间处理函数(都是装饰器)
+    # middlewares中的每个factory接受两个参数，app 和 handler(即middlewares中的下一个handler)
+    # 譬如这里logger_factory的handler参数其实就是auth_factory
+    # middlewares的最后一个元素的handler会通过routes查找到相应的，就是routes注册的对应handler处理函数
+    # 这是装饰模式的体现，logger_factory, auth_factory, response_factory都是URL处理函数前（如handler.index）的装饰功能
     app = web.Application(loop=loop,middlewares=[
         logger_factory,auth_factory, response_factory
     ])
     init_jinja2(app, filters=dict(datetime = datetime_filter))
-    add_routes(app,'handlers')
-    add_static(app)
+    add_routes(app,'handlers')# 添加URL处理函数
+    add_static(app)# 添加CSS等静态文件路径
     srv=await loop.create_server(app.make_handler(),'127.0.0.1',9000)
     logging.info('server started at http://127.0.0.1:9000...')
     return srv
 
-loop=asyncio.get_event_loop()
-loop.run_until_complete(init(loop))
+
+loop=asyncio.get_event_loop()# 获取eventloop
+
+loop.run_until_complete(init(loop))# 然后加入运行事件
 loop.run_forever()
 
 
