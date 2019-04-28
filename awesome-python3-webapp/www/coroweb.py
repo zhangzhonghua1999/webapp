@@ -215,8 +215,7 @@ def add_route(app,fn):
         raise ValueError('@get or @post not defined in %s.' % str(fn))
     if not asyncio.iscoroutinefunction(fn) and not inspect.iscoroutinefunction(fn):
         fn = asyncio.coroutine(fn)
-    logging.info('add route %s %s => %s(%s)' % (method,path,fn.__name__,
-                                                ','.join(inspect.signature(fn).parameters.keys())))
+    logging.info('add route %s %s => %s(%s)' % (method, path, fn.__name__, ', '.join(inspect.signature(fn).parameters.keys())))
     app.router.add_route(method, path, RequestHandler(app,fn))
 
 # 定义add_routes函数，自动把handler模块的所有符合条件的URL函数注册了
